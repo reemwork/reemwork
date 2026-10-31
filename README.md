@@ -16,6 +16,10 @@ Lately, I've been exploring **machine learning, algorithms, and robotics** by bu
 
 Machine learning · Algorithms · Robotics · Model evaluation
 
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/reemcsstu/)
+
 ---
 
 *Still learning, experimenting, and figuring things out along the way.*
