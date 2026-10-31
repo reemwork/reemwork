@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Reem! 🐈
 
-<!--
-**reemeow/reemeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Jeddah. I like understanding *why* things work, especially the math and ideas behind machine learning.
 
-Here are some ideas to get you started:
+Lately, I've been exploring **machine learning, algorithms, and robotics** by building things, testing ideas, and learning from what doesn't work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A couple of projects
+
+- **[Emotion Classification — Logistic Regression from Scratch](https://github.com/reemeow/emotion-classification-ML)**  
+  Built a multiclass text classifier with NumPy, then explored its performance, mistakes, and how individual words affect predictions.
+
+- **[NAO Emotion Recognition](https://github.com/reemeow/NAO-Emotion-Recognition)**  
+  An ongoing team project exploring emotion recognition and human–robot interaction with the NAO robot.
+
+### Things I'm interested in
+
+Machine learning · Algorithms · Robotics · Model evaluation
+
+---
+
+*Still learning, experimenting, and figuring things out along the way.*
