@@ -12,6 +12,13 @@ Lately, I've been exploring **machine learning, algorithms, and robotics** by bu
 - **[NAO Emotion Recognition](https://github.com/reemeow/NAO-Emotion-Recognition)**  
   An ongoing team project exploring emotion recognition and human–robot interaction with the NAO robot.
 
+### Skills & Tools
+
+- **Programming:** Python, Java, SQL, C
+- **Web:** HTML, CSS, JavaScript
+- **Machine learning:** NumPy, pandas, scikit-learn, Matplotlib
+- **Tools:** Git, GitHub, VS Code
+
 ### Things I'm interested in
 
 Machine learning · Algorithms · Robotics · Model evaluation
