@@ -1,4 +1,4 @@
-# Hi, I'm Reem! 🐈
+# Hi, I'm Reem!
 
 I'm a Computer Science student at the University of Jeddah. I like understanding *why* things work, especially the math and ideas behind machine learning.
 
