@@ -6,10 +6,10 @@ Lately, I've been exploring **machine learning, algorithms, and robotics** by bu
 
 ### A couple of projects
 
-- **[Emotion Classification — Logistic Regression from Scratch](https://github.com/reemeow/emotion-classification-ML)**  
+- **[Emotion Classification — Logistic Regression from Scratch](https://github.com/reemwork/emotion-classification-ML)**  
   Built a multiclass text classifier with NumPy, then explored its performance, mistakes, and how individual words affect predictions.
 
-- **[NAO Emotion Recognition](https://github.com/reemeow/NAO-Emotion-Recognition)**  
+- **[NAO Emotion Recognition](https://github.com/reemwork/NAO-Emotion-Recognition)**  
   An ongoing team project exploring emotion recognition and human–robot interaction with the NAO robot.
 
 ### Skills & Tools
